@@ -386,7 +386,7 @@ fieldset[disabled] .btn-default.active {
 
 .btn-primary {
     border-color: #f05f40;
-    color: #01C7C7; /* color for contact us work*/
+    color: #FF0000; /* color for contact us work*/
     background-color: #D0D0D0;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
